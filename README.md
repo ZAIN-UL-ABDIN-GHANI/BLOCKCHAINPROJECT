@@ -8,14 +8,17 @@ A full-stack decentralized application (DApp) built with **React**, **Node.js/Ex
 
 
 > — Main dashboard with account cards
-> - <img width="1063" height="594" alt="image" src="https://github.com/user-attachments/assets/080b8e51-7818-4ae2-bf9a-1a26a7fbce90" />
+> - <img width="1063" height="594" alt="image" src="https://github.com/user-attachments/assets/262f2155-c75d-45ca-8630-b5eed5b63839" />
+
 
 > — Transfer form with validation
-> - <img width="969" height="531" alt="image" src="https://github.com/user-attachments/assets/e264daae-f1be-4b4e-860f-54018dd6c179" /><img width="969" height="531" alt="image" src="https://github.com/user-attachments/assets/63fc260a-b145-484d-8be7-a55ba798136b" />
+> <img width="969" height="531" alt="image" src="https://github.com/user-attachments/assets/d1396f9f-de75-4d2d-bb27-8e0844620d47" />
+
 
 
 > — Transaction confirmation receipt
-> - <img width="969" height="531" alt="image" src="https://github.com/user-attachments/assets/6a00cb55-daa3-4dd6-b7d6-55d6c58374df" />
+<img width="969" height="531" alt="image" src="https://github.com/user-attachments/assets/5705f997-b971-44d9-8534-440b849b24e9" />
+
 
 
 ---
@@ -309,6 +312,5 @@ For production deployment, replace Ganache with a proper network:
 
 ---
 
-## 📄 License
-
-MIT — Free to use for educational and portfolio purposes.
+## License
+This project is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
